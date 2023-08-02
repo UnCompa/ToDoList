@@ -122,7 +122,8 @@ body {
     width: 100%;
 }
 .li__container p {
-    text-align: start;
+    width: 100%;
+    text-align: left;
     padding: .5em;
     color: var(--blanco);
     user-select: none;
